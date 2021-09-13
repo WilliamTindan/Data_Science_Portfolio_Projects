@@ -1,2 +1,7 @@
 # Data_Science_Portfolio_Projects
-This site hosts all my data science projects
+This site shows projects worked on by William
+
+# Project 1 : 
+
+
+
